@@ -9,9 +9,9 @@ In order to have the northwind data, just copy the northwind.sql file and paste 
 
 </p>
 
-- 🌱 I’m currently learning **ML Algorithms.**
+- 🌱 I’m currently learning **SQL Databases.**
 
-- 💬 Ask me about **python, data science and webscrapping** 
+- 💬 Ask me about **data science, Data Analysis and webscrapping** 
 
 - 📫 How to reach me **sekanti02@gmail.com**
 
