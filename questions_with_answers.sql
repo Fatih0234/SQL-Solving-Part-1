@@ -77,8 +77,6 @@ GROUP BY company_name
 ORDER BY num_orders DESC;
 
 
-SELECT * FROM categories;
-select * from products;
 -- Question 14: Select the category name and the total number of products in each category from the categories and products tables, ordered by category name
 SELECT c.category_name, COUNT(p.product_id) AS num_products 
 FROM categories c
